@@ -1,0 +1,15 @@
+<JavaCardProject name="FidoU2F">
+<USER>
+<PKG name="com.esec.u2ftoken" aid="A0 00 00 06 47 2F 00" major="1" minor="0">
+<CLASS name="IndexKeyHandle"/>
+<CLASS name="KeyHandleGenerator"/>
+<CLASS name="RawMessageCodec"/>
+<CLASS name="SecP256r1"/>
+<CLASS name="SecretKeyDataBase"/>
+<CLASS name="SecretKeys"/>
+<CLASS name="SharedMemory"/>
+<APPLET aid="A0 00 00 06 47 2F 00 01" instanceaid="" parameter="" authority="" privileges="" index="14024" name="U2FToken"/>
+</PKG>
+<Libs/>
+</USER>
+</JavaCardProject>

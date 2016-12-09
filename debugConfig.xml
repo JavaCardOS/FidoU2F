@@ -1,0 +1,11 @@
+<JavaCardProject name="FidoU2F">
+<USER>
+<PKG name="com.esec.u2ftoken" aid="A0 00 00 06 47 2F 00" major="1" minor="0">
+<APPLET aid="A0 00 00 06 47 2F 00 01" instanceaid="" parameter="" authority="" privileges="" index="-736" name="U2FToken"/>
+</PKG>
+<Libs/>
+</USER>
+<DebugInfo>
+<Protocol name="T01"/>
+</DebugInfo>
+</JavaCardProject>
